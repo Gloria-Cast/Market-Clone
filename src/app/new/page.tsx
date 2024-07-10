@@ -29,7 +29,7 @@ export default function NewPostPage() {
                     <label className="">Category</label>
                     <select name="category" id="category">
                         <option value="0">Ingresa una opcion</option>
-                        <option id="cars">Cars</option>
+                        <option id="cars">Cars1</option>
                         <option id="electronics">Electronics</option>
                         <option id="properties">Properties</option>
                     </select>
